@@ -1,0 +1,898 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1004
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+  9
+$EXTMIN
+ 10
+95.189
+ 20
+-108.7347
+  9
+$EXTMAX
+ 10
+173.7176
+ 20
+3.1015
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$DRAGMODE
+ 70
+     2
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$OSMODE
+ 70
+    37
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+ 62
+   256
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.5
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2458637.523292153
+  9
+$TDUPDATE
+ 40
+2458637.523292188
+  9
+$TDINDWG
+ 40
+0.0000000116
+  9
+$TDUSRTIMER
+ 40
+0.0000000116
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$COORDS
+ 70
+     1
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$ATTDIA
+ 70
+     0
+  9
+$ATTREQ
+ 70
+     1
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+ 70
+     1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+     2
+  0
+LAYER
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+PHASER
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+ 70
+     1
+  0
+STYLE
+  2
+STANDARD
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+ 70
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+PHASER
+ 62
+   250
+ 66
+     1
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+95.226
+ 20
+-34.7013
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+97.698
+ 20
+-26.7707
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+100.9886
+ 20
+-19.5318
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+105.0165
+ 20
+-13.0974
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+109.7004
+ 20
+-7.5801
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+114.9591
+ 20
+-3.0926
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+120.7111
+ 20
+0.2523
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+126.8752
+ 20
+2.3418
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+133.3701
+ 20
+3.0634
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+141.4938
+ 20
+1.9281
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+149.0603
+ 20
+-1.3279
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+155.9074
+ 20
+-6.48
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+161.8731
+ 20
+-13.3034
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+166.7952
+ 20
+-21.5735
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+170.5118
+ 20
+-31.0655
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+172.8605
+ 20
+-41.5548
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+173.6795
+ 20
+-52.8166
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+172.8605
+ 20
+-64.0784
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+170.5118
+ 20
+-74.5677
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+166.7952
+ 20
+-84.0597
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+161.8731
+ 20
+-92.3298
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+155.9074
+ 20
+-99.1532
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+149.0603
+ 20
+-104.3053
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+141.4938
+ 20
+-107.5613
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+133.3701
+ 20
+-108.6966
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+126.8757
+ 20
+-107.9751
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+120.7121
+ 20
+-105.8859
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+114.9604
+ 20
+-102.5415
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+109.702
+ 20
+-98.0548
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+105.0182
+ 20
+-92.5382
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+100.9903
+ 20
+-86.1047
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+97.6996
+ 20
+-78.8668
+  0
+VERTEX
+  8
+PHASER
+ 62
+   250
+ 10
+95.2273
+ 20
+-70.9372
+  0
+SEQEND
+  8
+PHASER
+ 62
+   250
+  0
+ENDSEC
+  0
+EOF
